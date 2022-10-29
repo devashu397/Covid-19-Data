@@ -1,0 +1,39 @@
+body {
+  background-color: dodgerblue;
+  font-family: "Poppins", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: #083d55;
+}
+
+h2.worldtitle {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+h3.worldstats {
+  padding-top: 10px;
+  text-align: center;
+  color: #083d55;
+}
+
+div.button {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button {
+  font-family: "Poppins", sans-serif;
+  height: 30px;
+  width: 175px;
+}
+
+h3.notice {
+  padding-top: 25px;
+  text-align: center;
+  color: #083d55;
+}
